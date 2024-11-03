@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0443-string-compression) |
+| [0812-rotate-string](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2580-circular-sentence](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2580-circular-sentence) |
 ## Hash Table
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1833-find-the-highest-altitude) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
