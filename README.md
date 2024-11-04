@@ -35,12 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2580-circular-sentence](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2580-circular-sentence) |
 ## Hash Table
 |  |
 | ------- |
 | [1319-unique-number-of-occurrences](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Binary Search
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Sliding Window
@@ -72,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0812-rotate-string) |
+## Counting
+|  |
+| ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
