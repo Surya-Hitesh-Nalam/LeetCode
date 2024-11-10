@@ -1,14 +1,14 @@
 class Solution:
     def makeFancyString(self, s: str) -> str:
-        ans=s[0]
-        cnt=1
+        answer=s[0]
+        count=1
         for i in range(1,len(s)):
-            if s[i]==ans[-1]:
-                cnt+=1
-                if cnt<3:
-                    ans+=s[i]
+            if s[i]==answer[-1]:
+                count+=1
+                if count<3:
+                    answer+=s[i]
             else:
-                cnt=1
-                ans+=s[i]
-        return ans
+                count=1
+                answer+=s[i]
+        return answer
         
