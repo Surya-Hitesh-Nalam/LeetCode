@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0283-move-zeroes](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0605-can-place-flowers) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1319-unique-number-of-occurrences](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -102,4 +104,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0203-remove-linked-list-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
