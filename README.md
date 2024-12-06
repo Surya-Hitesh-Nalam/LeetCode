@@ -20,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Greedy
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0605-can-place-flowers) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,12 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1046-max-consecutive-ones-iii](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -69,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Sliding Window
 |  |
