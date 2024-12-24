@@ -162,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
