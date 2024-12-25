@@ -132,10 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Tree
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Database
 |  |
 | ------- |
@@ -166,4 +168,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0009-palindrome-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 <!---LeetCode Topics End-->
