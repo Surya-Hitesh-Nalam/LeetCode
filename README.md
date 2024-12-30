@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0139-word-break) |
 | [0494-target-sum](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0494-target-sum) |
+| [2562-count-ways-to-build-good-strings](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Sorting
 |  |
