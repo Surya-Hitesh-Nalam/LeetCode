@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0724-find-pivot-index) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1025-minimum-cost-for-tickets](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0139-word-break) |
 | [0494-target-sum](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0494-target-sum) |
+| [1025-minimum-cost-for-tickets](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Sorting
