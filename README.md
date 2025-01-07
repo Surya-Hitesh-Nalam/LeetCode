@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1524-string-matching-in-an-array](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1524-string-matching-in-an-array](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1524-string-matching-in-an-array) |
 ## Counting
 |  |
 | ------- |
