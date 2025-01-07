@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0041-first-missing-positive](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0041-first-missing-positive) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0139-word-break](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0139-word-break) |
 | [0283-move-zeroes](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0283-move-zeroes) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0041-first-missing-positive) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0139-word-break](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0139-word-break) |
 | [1319-unique-number-of-occurrences](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1319-unique-number-of-occurrences) |
