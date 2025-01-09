@@ -1,23 +1,17 @@
 class Solution:
     def minOperations(self, boxes: str) -> List[int]:
-        n=len(boxes)
-        ans=[0]*n
-        P=[]
-
-        for i, x in enumerate(boxes):
-            if x=='1':
-                P.append(i)
-                ans[0]+=i
-
-        pz=len(P)
-        L, R=0, pz
-        j=0
-        for i in range(1, n):
-            if j<pz and i>P[j]:
-                L+=1
-                R-=1
-                j+=1
-            ans[i]=ans[i-1]+L-R
-        return ans 
+        onepos=[]
+        for i in range(len(boxes)):
+            if boxes[i]=="1":
+                onepos.append(i)
+        print(onepos)
+        res=[]
+        for i in range(len(boxes)):
+            ans=0
+            for j in onepos:
+                val=abs(j-i)
+                ans+=val
+            res.append(ans)
+        return res 
 
         
