@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0605-can-place-flowers) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1502-construct-k-palindrome-strings](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Two Pointers
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1502-construct-k-palindrome-strings](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0139-word-break) |
 | [1319-unique-number-of-occurrences](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1502-construct-k-palindrome-strings](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
