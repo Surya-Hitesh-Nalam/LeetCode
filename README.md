@@ -99,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
