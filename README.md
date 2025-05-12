@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0494-target-sum) |
 | [0740-delete-and-earn](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0740-delete-and-earn) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1293-three-consecutive-odds](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1396-count-servers-that-communicate](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
