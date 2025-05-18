@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0075-sort-colors) |
 | [0494-target-sum](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0494-target-sum) |
 | [0740-delete-and-earn](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0740-delete-and-earn) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0075-sort-colors) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Simulation
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0075-sort-colors) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## String
 |  |
