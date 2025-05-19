@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2792-neighboring-bitwise-xor](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [3321-type-of-triangle](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/3321-type-of-triangle) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0070-climbing-stairs) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3321-type-of-triangle](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/3321-type-of-triangle) |
 ## Backtracking
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0075-sort-colors) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [3321-type-of-triangle](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/3321-type-of-triangle) |
 ## String
 |  |
 | ------- |
