@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2792-neighboring-bitwise-xor](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3321-type-of-triangle](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/3321-type-of-triangle) |
+| [3639-zero-array-transformation-i](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0020-valid-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [3639-zero-array-transformation-i](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/3639-zero-array-transformation-i) |
 <!---LeetCode Topics End-->
