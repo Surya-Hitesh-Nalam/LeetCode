@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2792-neighboring-bitwise-xor](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3194-find-words-containing-character](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/3321-type-of-triangle) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0386-lexicographical-numbers) |
+## Greedy
+|  |
+| ------- |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 <!---LeetCode Topics End-->
