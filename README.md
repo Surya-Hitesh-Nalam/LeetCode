@@ -106,10 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0494-target-sum) |
 | [0740-delete-and-earn](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0740-delete-and-earn) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0070-climbing-stairs) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0020-valid-parentheses) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3194-find-words-containing-character](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Recursion
