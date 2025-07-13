@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2792-neighboring-bitwise-xor](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Simulation
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3321-type-of-triangle](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## String
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Recursion
