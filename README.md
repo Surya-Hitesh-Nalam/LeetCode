@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0070-climbing-stairs) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -200,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0050-powx-n) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
