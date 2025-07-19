@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1293-three-consecutive-odds](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1396-count-servers-that-communicate) |
 ## Breadth-First Search
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0020-valid-parentheses) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3194-find-words-containing-character](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Greedy
 |  |
 | ------- |
