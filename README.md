@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0020-valid-parentheses) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3194-find-words-containing-character](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/3194-find-words-containing-character) |
