@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0740-delete-and-earn](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0740-delete-and-earn) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0020-valid-parentheses) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -216,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
