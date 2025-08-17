@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0070-climbing-stairs) |
@@ -224,11 +225,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0050-powx-n) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0002-add-two-numbers) |
 | [0148-sort-list](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0148-sort-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Sliding Window
