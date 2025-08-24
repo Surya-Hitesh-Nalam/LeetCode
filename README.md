@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0494-target-sum) |
 | [0740-delete-and-earn](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0740-delete-and-earn) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0940-fruit-into-baskets](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Enumeration
 |  |
 | ------- |
