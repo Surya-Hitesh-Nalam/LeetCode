@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0118-pascals-triangle) |
 | [0347-top-k-frequent-elements](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0494-target-sum](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0740-delete-and-earn](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0740-delete-and-earn) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0498-diagonal-traverse](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1396-count-servers-that-communicate](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0498-diagonal-traverse) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sorting
