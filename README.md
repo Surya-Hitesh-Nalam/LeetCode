@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0118-pascals-triangle) |
 | [0347-top-k-frequent-elements](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0740-delete-and-earn](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0740-delete-and-earn) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0407-trapping-rain-water-ii](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1396-count-servers-that-communicate](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 ## Bucket Sort
 |  |
 | ------- |
