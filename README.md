@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1293-three-consecutive-odds](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1396-count-servers-that-communicate](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0900-reordered-power-of-2](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0900-reordered-power-of-2) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Surya-Hitesh-Nalam/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
